@@ -197,7 +197,7 @@ scripts/
   evaluate.py              score a results.csv
 tests/test_lexicon.py      regression tests
 models/model.joblib        trained model (used by predict.py)
-notebooks/report.ipynb     the report
+report.ipynb     the report
 reports/                   metrics, CV results, test predictions, figures
 ```
 
