@@ -1,0 +1,20 @@
+# Tested with Python 3.13 on macOS (Apple Silicon), CPU only.
+easyocr==1.7.2
+torch==2.14.0
+torchvision==0.29.0
+opencv-python-headless==5.0.0.93
+certifi==2026.7.22
+numpy==2.5.3
+pandas==3.0.6
+pillow==12.3.0
+scikit-learn==1.9.1
+rapidfuzz==3.14.6
+joblib==1.6.0
+tqdm==4.70.1
+# reporting / EDA only
+matplotlib==3.11.2
+jupyter==1.1.1
+nbconvert==7.17.1
+ipykernel==7.3.0
+# tests only
+pytest==9.1.1
